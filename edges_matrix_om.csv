@@ -1,0 +1,32 @@
+﻿c1;c2;c3;c4;c5;c6;c7;c8;c9;c10;c11;c12;c13;c14;c15;c16;c17;c18;c19;c20;c21;c22;c23;c24;c25;c26;c27;c28;c29;c30;c31
+;A-B, ;A-C, ;;;;;;A-I, ;A-J, ;;;;A-N, ;A-O, ;A-P, ;;;;A-T, ;A-U, ;;A-W, ;A-X, ;A-Z, ;;A-AB, ;A-AC, ;A-AD, ;;A-AF, 
+B-A, ;;B-C, ;;;;;;;B-J, ;;B-L, ;B-M, ;;B-O, ;B-P, ;;;;;;B-V, ;B-W, ;B-X, ;B-Z, ;;B-AB, ;B-AC, ;B-AD, ;B-AE, ;B-AF, 
+C-A, ;C-B, ;;C-D, ;;;;;C-I, ;;;;C-M, ;C-N, ;;;C-Q, ;;;;C-U, ;;C-W, ;;;C-AA, ;C-AB, ;C-AC, ;C-AD, ;C-AE, ;C-AF, 
+;;D-C, ;;D-E, ;D-F, ;D-G, ;D-H, ;D-I, ;D-J, ;;D-L, ;;;D-O, ;D-P, ;;;;;;D-V, ;;D-X, ;;D-AA, ;;D-AC, ;D-AD, ;D-AE, ;D-AF, 
+;;;E-D, ;;E-F, ;;;;E-J, ;;;;;;E-P, ;;;;;E-U, ;;;E-X, ;E-Z, ;;;E-AC, ;E-AD, ;E-AE, ;
+;;;F-D, ;F-E, ;;;F-H, ;F-I, ;F-J, ;;F-L, ;;;;;F-Q, ;;;;;F-V, ;;;F-Z, ;;;F-AC, ;F-AD, ;;
+;;;G-D, ;;;;G-H, ;G-I, ;;;;;;;;G-Q, ;;;;G-U, ;;;;;G-AA, ;G-AB, ;;;;G-AF, 
+;;;H-D, ;;H-F, ;H-G, ;;;H-J, ;H-K, ;H-L, ;;;;;;H-R, ;;H-T, ;;H-V, ;;;;H-AA, ;H-AB, ;H-AC, ;H-AD, ;H-AE, ;H-AF, 
+I-A, ;;I-C, ;I-D, ;;I-F, ;I-G, ;;;I-J, ;;I-L, ;I-M, ;;I-O, ;;I-Q, ;;I-S, ;I-T, ;I-U, ;;I-W, ;;I-Z, ;;I-AB, ;I-AC, ;I-AD, ;I-AE, ;I-AF, 
+J-A, ;J-B, ;;J-D, ;J-E, ;J-F, ;;J-H, ;J-I, ;;;J-L, ;J-M, ;J-N, ;;;J-Q, ;;;J-T, ;;J-V, ;J-W, ;;J-Z, ;;J-AB, ;J-AC, ;J-AD, ;J-AE, ;J-AF, 
+;;;;;;;K-H, ;;;;;;;;;K-Q, ;;;;K-U, ;;;;;K-AA, ;;K-AC, ;K-AD, ;K-AE, ;
+;L-B, ;;L-D, ;;L-F, ;;L-H, ;L-I, ;L-J, ;;;;L-N, ;;;L-Q, ;;;;;L-V, ;L-W, ;;;L-AA, ;;L-AC, ;L-AD, ;;
+;M-B, ;M-C, ;;;;;;M-I, ;M-J, ;;;;M-N, ;M-O, ;;M-Q, ;;;;M-U, ;;M-W, ;;M-Z, ;;;;;;M-AF, 
+N-A, ;;N-C, ;;;;;;;N-J, ;;N-L, ;N-M, ;;N-O, ;;N-Q, ;;;;;N-V, ;N-W, ;;N-Z, ;;;N-AC, ;N-AD, ;N-AE, ;N-AF, 
+O-A, ;O-B, ;;O-D, ;;;;;O-I, ;;;;O-M, ;O-N, ;;;O-Q, ;;;;O-U, ;;O-W, ;;;O-AA, ;O-AB, ;O-AC, ;O-AD, ;O-AE, ;O-AF, 
+P-A, ;P-B, ;;P-D, ;P-E, ;;;;;;;;;;;;;;;;;P-V, ;;;;P-AA, ;P-AB, ;P-AC, ;P-AD, ;P-AE, ;P-AF, 
+;;Q-C, ;;;Q-F, ;Q-G, ;;Q-I, ;Q-J, ;Q-K, ;Q-L, ;Q-M, ;Q-N, ;Q-O, ;;;;Q-S, ;Q-T, ;;Q-V, ;Q-W, ;;Q-Z, ;;Q-AB, ;Q-AC, ;Q-AD, ;Q-AE, ;
+;;;;;;;R-H, ;;;;;;;;;;;;R-T, ;R-U, ;;;;R-Z, ;;R-AB, ;;;;R-AF, 
+;;;;;;;;S-I, ;;;;;;;;S-Q, ;;;;;S-V, ;S-W, ;;;S-AA, ;S-AB, ;S-AC, ;S-AD, ;S-AE, ;S-AF, 
+T-A, ;;;;;;;T-H, ;T-I, ;T-J, ;;;;;;;T-Q, ;T-R, ;;;T-U, ;;T-W, ;;;T-AA, ;;T-AC, ;T-AD, ;T-AE, ;T-AF, 
+U-A, ;;U-C, ;;U-E, ;;U-G, ;;U-I, ;;U-K, ;;U-M, ;;U-O, ;;;U-R, ;;U-T, ;;U-V, ;;;U-Z, ;;;U-AC, ;U-AD, ;U-AE, ;U-AF, 
+;V-B, ;;V-D, ;;V-F, ;;V-H, ;;V-J, ;;V-L, ;;V-N, ;;V-P, ;V-Q, ;;V-S, ;;V-U, ;;V-W, ;V-X, ;V-Z, ;;;;;V-AE, ;
+W-A, ;W-B, ;W-C, ;;;;;;W-I, ;W-J, ;;W-L, ;W-M, ;W-N, ;W-O, ;;W-Q, ;;W-S, ;W-T, ;;W-V, ;;;;W-AA, ;;W-AC, ;W-AD, ;;W-AF, 
+X-A, ;X-B, ;;X-D, ;X-E, ;;;;;;;;;;;;;;;;;X-V, ;;;;X-AA, ;;X-AC, ;X-AD, ;X-AE, ;X-AF, 
+Z-A, ;Z-B, ;;;Z-E, ;Z-F, ;;;Z-I, ;Z-J, ;;;Z-M, ;Z-N, ;;;Z-Q, ;Z-R, ;;;Z-U, ;Z-V, ;;;;;;;;Z-AE, ;Z-AF, 
+;;AA-C, ;AA-D, ;;;AA-G, ;AA-H, ;;;AA-K, ;AA-L, ;;;AA-O, ;AA-P, ;;;AA-S, ;AA-T, ;;;AA-W, ;AA-X, ;;;AA-AB, ;AA-AC, ;AA-AD, ;AA-AE, ;AA-AF, 
+AB-A, ;AB-B, ;AB-C, ;;;;AB-G, ;AB-H, ;AB-I, ;AB-J, ;;;;;AB-O, ;AB-P, ;AB-Q, ;AB-R, ;AB-S, ;;;;;;;;;;;AB-AE, ;
+AC-A, ;AC-B, ;AC-C, ;AC-D, ;AC-E, ;AC-F, ;;AC-H, ;AC-I, ;AC-J, ;AC-K, ;AC-L, ;;AC-N, ;AC-O, ;AC-P, ;AC-Q, ;;AC-S, ;AC-T, ;AC-U, ;;AC-W, ;AC-X, ;;AC-AA, ;;;;;
+AD-A, ;AD-B, ;AD-C, ;AD-D, ;AD-E, ;AD-F, ;;AD-H, ;AD-I, ;AD-J, ;AD-K, ;AD-L, ;;AD-N, ;AD-O, ;AD-P, ;AD-Q, ;;AD-S, ;AD-T, ;AD-U, ;;AD-W, ;AD-X, ;;AD-AA, ;;;;;
+;AE-B, ;AE-C, ;AE-D, ;AE-E, ;;;AE-H, ;AE-I, ;AE-J, ;AE-K, ;;;AE-N, ;AE-O, ;AE-P, ;AE-Q, ;;AE-S, ;AE-T, ;AE-U, ;AE-V, ;;AE-X, ;AE-Z, ;AE-AA, ;AE-AB, ;;;;
+AF-A, ;AF-B, ;AF-C, ;AF-D, ;;;AF-G, ;AF-H, ;AF-I, ;AF-J, ;;;AF-M, ;AF-N, ;AF-O, ;AF-P, ;;AF-R, ;AF-S, ;AF-T, ;AF-U, ;;AF-W, ;AF-X, ;AF-Z, ;AF-AA, ;;;;;
